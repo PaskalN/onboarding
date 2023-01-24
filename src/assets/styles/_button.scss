@@ -11,12 +11,12 @@
     
 
     &.light {
-        background-color: rgb(219, 229, 251);
-        box-shadow: 0 4px 0 0 rgb(62, 69, 80);
+        background-color: transparent;
+        box-shadow: 0 0px 0 2px rgb(0, 0, 0, 1);
         color: #333;
 
         &:hover {
-            background-color: rgb(195, 207, 231);
+            background-color: rgb(245, 248, 255);
         }
     }
 
